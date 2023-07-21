@@ -1,10 +1,9 @@
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20김민재%20%20&fontAlign=20&fontSize=30&textBg=true&desc=사용자에게%20놀라운%20경험을%20선사하는%20프론트엔드%20개발자입니다.&descAlign=60&descAlignY=50)
-<p style="font-size:30px">Contact</p>
+![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20김민재%20%20&fontAlign=10&fontSize=30&textBg=true&desc=사용자에게%20놀라운%20경험을%20선사하는%20프론트엔드%20개발자입니다.&descAlign=60&descAlignY=50)
+<h3>Contact</h3>
 
-<p style="font-size:16px">
-  📞 Phone : 010-9909-7886 </br>
-  ✉️ Email : kimmjae99@gmail.com
-</p>
+<h4> 📞 Phone : 010-9909-7886 </h4>
+<h4> ✉️ Email : kimmjae99@gmail.com </h4>
+
 </br>
 
 <h3 align="left" style="font-size:23px">Languages :</h3>
@@ -28,7 +27,7 @@
 </br>
 </br>
 
-<p style="font-size:23px">🧑🏻‍💻 Github Stats :</p>
+<h3>🧑🏻‍💻 Github Stats :</h3>
 
 ![김민재's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimmjae99&show_icons=true&line_height=24&hide_rank=true&&layout=compact&theme=white)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimmjae99&layout=compact&langs_count=8)](https://github.com/kimmjae99/github-readme-stats)
