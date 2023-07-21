@@ -1,4 +1,4 @@
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20김민재%20%20&fontAlign=10&fontSize=30&textBg=true&desc=사용자에게%20놀라운%20경험을%20선사하는%20프론트엔드%20개발자입니다.&descAlign=60&descAlignY=50)
+![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20김민재%20%20&fontAlign=15&fontSize=30&textBg=true&desc=사용자에게%20놀라운%20경험을%20선사하는%20프론트엔드%20개발자입니다.&descAlign=60&descAlignY=50)
 <h3>Contact</h3>
 
 <h4> 📞 Phone : 010-9909-7886 </h4>
