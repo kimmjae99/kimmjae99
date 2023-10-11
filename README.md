@@ -32,5 +32,5 @@
 ![김민재's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimmjae99&show_icons=true&line_height=24&hide_rank=true&&layout=compact&theme=white)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimmjae99&layout=compact&langs_count=8)](https://github.com/kimmjae99/github-readme-stats)
 
-</br></br>
+</br></br></br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimmjae99&count_bg=%236A6A6A&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
